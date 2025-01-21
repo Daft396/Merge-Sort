@@ -33,3 +33,15 @@ def merge(left, right):
 
     return merged
 
+def bubble_sort(arr):
+    pass
+
+def insertion_sort(arr):
+    pass
+
+def linear_search(arr):
+    pass
+
+def binary_search(arr):
+    arr.sort()
+    pass
